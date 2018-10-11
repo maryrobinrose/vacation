@@ -1,9 +1,9 @@
-.panel {
+.photo {
   text-align: center;
   border: 0;
   box-shadow: none;
 }
 
-.panel img {
+.photo img {
   width: 800px;
 }
